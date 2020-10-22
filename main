@@ -1,12 +1,19 @@
-<!doctype <html>
-    <head>
-     <title>Яков Наймилов - персонаж</title>
-    </head>
-
-    <body>
-        <h1> Яков Наймилов</h1>
-           <p><a href="https://www.instagram.com/">Инстаграм</a></p>
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Наймилов Яков - персонаж</title>
+    <style>
+      img {
+        max-width: 500px;
+      }
+    </style>
+  </head>
+  <body>
+   <h1> Яков Наймилов</h1>
+           <p><a href="https://instagram.com/yakovnai">Инстаграм</a></p>
            <p><a href="https://t.me/yakovnaich">Телеграм</a></p>
            <p><a href="https://vk.com/yakovnai">Вконтакте</a></p>
-    </body>
-</html>
+  
+
+</body></html>
